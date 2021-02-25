@@ -1,2 +1,2 @@
 # How-to-make-a-MEAN-Stack-Web-App
-The Repo of the Web App team.
+This repo will be a clone of a Web App built for a MEAN Stack.
